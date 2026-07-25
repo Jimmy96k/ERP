@@ -1,0 +1,3 @@
+
+ALTER TABLE `vehicles`
+ADD COLUMN IF NOT EXISTS `unlimited_nos` INT NOT NULL DEFAULT 0;

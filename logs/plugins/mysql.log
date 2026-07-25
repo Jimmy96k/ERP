@@ -1,0 +1,520 @@
+[12:45:05] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'HOST=localhost' (0)'
+[12:45:05] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'HOST=localhost' (0)'
+[12:45:05] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'HOST=localhost' (0)'
+[12:45:05] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'HOST=localhost' (0)'
+[12:46:23] [WARNING] mysql_connect: no password specified
+[13:10:06] [WARNING] mysql_connect: no password specified
+[13:41:54] [WARNING] mysql_connect: no password specified
+[17:25:31] [WARNING] mysql_connect: no password specified
+[05/10/26 03:57:26] [WARNING] mysql_connect: no password specified
+[05/10/26 04:15:28] [WARNING] mysql_connect: no password specified
+[05/10/26 04:39:30] [WARNING] mysql_connect: no password specified
+[05/10/26 05:21:21] [WARNING] mysql_connect: no password specified
+[05/10/26 05:43:30] [WARNING] mysql_connect: no password specified
+[05/10/26 05:48:33] [WARNING] mysql_connect: no password specified
+[05/10/26 06:32:32] [WARNING] mysql_connect: no password specified
+[05/10/26 06:34:26] [WARNING] mysql_connect: no password specified
+[05/10/26 06:43:55] [WARNING] mysql_connect: no password specified
+[05/10/26 06:50:30] [WARNING] mysql_connect: no password specified
+[05/10/26 06:53:22] [WARNING] mysql_connect: no password specified
+[05/10/26 07:03:14] [WARNING] mysql_connect: no password specified
+[05/10/26 07:03:45] [WARNING] mysql_connect: no password specified
+[05/10/26 07:12:13] [WARNING] mysql_connect: no password specified
+[05/10/26 07:22:29] [WARNING] mysql_connect: no password specified
+[05/10/26 07:47:10] [WARNING] mysql_connect: no password specified
+[05/10/26 07:58:40] [WARNING] mysql_connect: no password specified
+[05/11/26 08:47:47] [WARNING] mysql_connect: no password specified
+[05/11/26 11:02:24] [WARNING] mysql_connect: no password specified
+[05/11/26 11:32:15] [WARNING] mysql_connect: no password specified
+[05/11/26 11:41:39] [WARNING] mysql_connect: no password specified
+[05/11/26 12:30:10] [WARNING] mysql_connect: no password specified
+[05/11/26 13:04:40] [WARNING] mysql_connect: no password specified
+[05/11/26 13:16:37] [WARNING] mysql_connect: no password specified
+[05/11/26 13:25:48] [WARNING] mysql_connect: no password specified
+[05/11/26 14:15:35] [WARNING] mysql_connect: no password specified
+[05/11/26 15:58:35] [WARNING] mysql_connect: no password specified
+[05/11/26 20:36:28] [WARNING] mysql_connect: no password specified
+[05/11/26 21:08:35] [WARNING] mysql_connect: no password specified
+[05/11/26 21:12:04] [WARNING] mysql_connect: no password specified
+[05/11/26 21:54:12] [ERROR] mysql_format: destination size '256' is too small
+[05/11/26 21:54:12] [ERROR] error #1065 while executing query "": Query was empty
+[05/11/26 22:04:19] [ERROR] mysql_format: destination size '256' is too small
+[05/11/26 22:04:19] [ERROR] error #1065 while executing query "": Query was empty
+[05/11/26 22:21:11] [WARNING] mysql_connect: no password specified
+[05/11/26 22:23:32] [WARNING] mysql_connect: no password specified
+[05/12/26 00:05:04] [WARNING] mysql_connect: no password specified
+[05/12/26 00:25:11] [WARNING] mysql_connect: no password specified
+[05/12/26 00:33:56] [WARNING] mysql_connect: no password specified
+[05/12/26 00:51:21] [WARNING] mysql_connect: no password specified
+[05/12/26 01:09:24] [WARNING] mysql_connect: no password specified
+[05/12/26 01:34:54] [WARNING] mysql_connect: no password specified
+[05/12/26 01:34:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:34:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:34:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:34:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:34:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:34:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:34:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:34:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:34:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:34:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:34:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:34:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:34:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:34:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:34:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:34:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:34:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:34:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:35:10] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:37:43] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:37:48] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `nos`=0,`unlimited_nos`=0,`mod_spoiler`=0,`mod_hood`=0,`mod_roof`=0,`mod_sideskirt_l`=0,`mod_sideskirt_r`=0,`mod_lamps`=0,`mod_nitro`=0,`mod_exhaust`=0,`mod_wheels`=0,`mod_stereo`=0,`mod_hydraulics`=0,`mod_front_bumper`=0,`mod_rear_bumper`=0,`mod_vent_right`=0,`mod_vent_left`=0 WHERE `id`=15": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 01:37:48] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:37:51] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:37:55] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `nos`=1010,`unlimited_nos`=0,`mod_nitro`=1010 WHERE `id`=15": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 01:37:55] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:38:03] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:38:07] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `nos`=1010,`unlimited_nos`=0,`mod_nitro`=1010 WHERE `id`=15": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 01:38:07] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:38:17] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:38:23] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:38:33] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:38:42] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:38:52] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:38:56] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:39:00] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:39:11] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:39:15] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:39:20] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:39:28] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `nos`=0,`unlimited_nos`=0,`mod_spoiler`=0,`mod_hood`=0,`mod_roof`=0,`mod_sideskirt_l`=0,`mod_sideskirt_r`=0,`mod_lamps`=0,`mod_nitro`=0,`mod_exhaust`=0,`mod_wheels`=0,`mod_stereo`=0,`mod_hydraulics`=1087,`mod_front_bumper`=0,`mod_rear_bumper`=0,`mod_vent_right`=0,`mod_vent_left`=0 WHERE `id`=12": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 01:39:28] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:39:42] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:40:29] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:40:32] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `nos`=0,`unlimited_nos`=0,`mod_spoiler`=0,`mod_hood`=0,`mod_roof`=0,`mod_sideskirt_l`=0,`mod_sideskirt_r`=0,`mod_lamps`=0,`mod_nitro`=0,`mod_exhaust`=0,`mod_wheels`=0,`mod_stereo`=0,`mod_hydraulics`=1087,`mod_front_bumper`=0,`mod_rear_bumper`=0,`mod_vent_right`=0,`mod_vent_left`=0 WHERE `id`=12": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 01:40:32] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:42:06] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:42:12] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:42:20] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:42:25] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:42:52] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:43:03] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `nos`=0,`unlimited_nos`=0,`mod_spoiler`=0,`mod_hood`=0,`mod_roof`=0,`mod_sideskirt_l`=0,`mod_sideskirt_r`=0,`mod_lamps`=1027,`mod_nitro`=0,`mod_exhaust`=0,`mod_wheels`=0,`mod_stereo`=0,`mod_hydraulics`=1087,`mod_front_bumper`=0,`mod_rear_bumper`=0,`mod_vent_right`=0,`mod_vent_left`=0 WHERE `id`=12": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 01:43:03] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:43:07] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:43:15] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `nos`=0,`unlimited_nos`=0,`mod_spoiler`=0,`mod_hood`=0,`mod_roof`=0,`mod_sideskirt_l`=0,`mod_sideskirt_r`=0,`mod_lamps`=0,`mod_nitro`=0,`mod_exhaust`=0,`mod_wheels`=0,`mod_stereo`=0,`mod_hydraulics`=1087,`mod_front_bumper`=0,`mod_rear_bumper`=0,`mod_vent_right`=0,`mod_vent_left`=0 WHERE `id`=12": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 01:43:15] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:43:22] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `nos`=0,`unlimited_nos`=0,`mod_spoiler`=0,`mod_hood`=0,`mod_roof`=0,`mod_sideskirt_l`=0,`mod_sideskirt_r`=0,`mod_lamps`=0,`mod_nitro`=0,`mod_exhaust`=0,`mod_wheels`=0,`mod_stereo`=0,`mod_hydraulics`=1087,`mod_front_bumper`=1169,`mod_rear_bumper`=0,`mod_vent_right`=0,`mod_vent_left`=0 WHERE `id`=12": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 01:43:22] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:43:33] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `nos`=0,`unlimited_nos`=0,`mod_spoiler`=1138,`mod_hood`=0,`mod_roof`=0,`mod_sideskirt_l`=0,`mod_sideskirt_r`=0,`mod_lamps`=0,`mod_nitro`=0,`mod_exhaust`=0,`mod_wheels`=0,`mod_stereo`=0,`mod_hydraulics`=1087,`mod_front_bumper`=1169,`mod_rear_bumper`=0,`mod_vent_right`=0,`mod_vent_left`=0 WHERE `id`=12": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 01:43:33] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:43:37] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `nos`=0,`unlimited_nos`=0,`mod_spoiler`=1138,`mod_hood`=1026,`mod_roof`=0,`mod_sideskirt_l`=0,`mod_sideskirt_r`=0,`mod_lamps`=0,`mod_nitro`=0,`mod_exhaust`=0,`mod_wheels`=0,`mod_stereo`=0,`mod_hydraulics`=1087,`mod_front_bumper`=1169,`mod_rear_bumper`=0,`mod_vent_right`=0,`mod_vent_left`=0 WHERE `id`=12": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 01:43:37] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:43:46] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:43:52] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `nos`=0,`unlimited_nos`=0,`mod_spoiler`=1138,`mod_hood`=1026,`mod_roof`=0,`mod_sideskirt_l`=1026,`mod_sideskirt_r`=0,`mod_lamps`=0,`mod_nitro`=0,`mod_exhaust`=0,`mod_wheels`=0,`mod_stereo`=0,`mod_hydraulics`=1087,`mod_front_bumper`=1169,`mod_rear_bumper`=0,`mod_vent_right`=0,`mod_vent_left`=0 WHERE `id`=12": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 01:43:52] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:44:02] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `nos`=0,`unlimited_nos`=0,`mod_spoiler`=1138,`mod_hood`=1026,`mod_roof`=0,`mod_sideskirt_l`=1026,`mod_sideskirt_r`=1030,`mod_lamps`=0,`mod_nitro`=0,`mod_exhaust`=0,`mod_wheels`=0,`mod_stereo`=0,`mod_hydraulics`=1087,`mod_front_bumper`=1169,`mod_rear_bumper`=0,`mod_vent_right`=0,`mod_vent_left`=0 WHERE `id`=12": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 01:44:02] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:44:09] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:44:25] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `nos`=0,`unlimited_nos`=0,`mod_spoiler`=1138,`mod_hood`=1026,`mod_roof`=0,`mod_sideskirt_l`=1030,`mod_sideskirt_r`=1030,`mod_lamps`=0,`mod_nitro`=0,`mod_exhaust`=0,`mod_wheels`=0,`mod_stereo`=0,`mod_hydraulics`=1087,`mod_front_bumper`=1169,`mod_rear_bumper`=0,`mod_vent_right`=0,`mod_vent_left`=0 WHERE `id`=12": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 01:44:25] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:44:42] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:44:49] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `nos`=0,`unlimited_nos`=0,`mod_spoiler`=1138,`mod_hood`=1026,`mod_roof`=0,`mod_sideskirt_l`=1030,`mod_sideskirt_r`=1030,`mod_lamps`=0,`mod_nitro`=0,`mod_exhaust`=0,`mod_wheels`=0,`mod_stereo`=0,`mod_hydraulics`=1087,`mod_front_bumper`=1169,`mod_rear_bumper`=0,`mod_vent_right`=0,`mod_vent_left`=0 WHERE `id`=12": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 01:44:49] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:44:57] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:45:07] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `nos`=0,`unlimited_nos`=0,`mod_spoiler`=1138,`mod_hood`=1026,`mod_roof`=0,`mod_sideskirt_l`=1030,`mod_sideskirt_r`=1030,`mod_lamps`=0,`mod_nitro`=0,`mod_exhaust`=0,`mod_wheels`=0,`mod_stereo`=0,`mod_hydraulics`=1087,`mod_front_bumper`=1169,`mod_rear_bumper`=1141,`mod_vent_right`=0,`mod_vent_left`=0 WHERE `id`=12": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 01:45:07] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:45:12] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:45:28] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:45:38] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:45:44] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:45:49] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:45:55] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:45:59] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:46:06] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `nos`=1010,`unlimited_nos`=0,`mod_spoiler`=1146,`mod_hood`=0,`mod_roof`=0,`mod_sideskirt_l`=1036,`mod_sideskirt_r`=0,`mod_lamps`=0,`mod_nitro`=1010,`mod_exhaust`=1034,`mod_wheels`=0,`mod_stereo`=0,`mod_hydraulics`=1087,`mod_front_bumper`=0,`mod_rear_bumper`=0,`mod_vent_right`=0,`mod_vent_left`=0 WHERE `id`=18": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 01:46:06] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:46:11] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `nos`=1010,`unlimited_nos`=0,`mod_spoiler`=1146,`mod_hood`=0,`mod_roof`=0,`mod_sideskirt_l`=1036,`mod_sideskirt_r`=0,`mod_lamps`=0,`mod_nitro`=1010,`mod_exhaust`=1034,`mod_wheels`=0,`mod_stereo`=0,`mod_hydraulics`=1087,`mod_front_bumper`=0,`mod_rear_bumper`=1148,`mod_vent_right`=0,`mod_vent_left`=0 WHERE `id`=18": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 01:46:11] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:46:22] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `nos`=1010,`unlimited_nos`=0,`mod_spoiler`=1146,`mod_hood`=0,`mod_roof`=0,`mod_sideskirt_l`=1036,`mod_sideskirt_r`=0,`mod_lamps`=0,`mod_nitro`=1010,`mod_exhaust`=1034,`mod_wheels`=0,`mod_stereo`=0,`mod_hydraulics`=1087,`mod_front_bumper`=0,`mod_rear_bumper`=1148,`mod_vent_right`=0,`mod_vent_left`=0 WHERE `id`=18": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 01:46:22] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:46:26] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:46:36] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:46:44] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `nos`=0,`unlimited_nos`=0,`mod_spoiler`=1138,`mod_hood`=1026,`mod_roof`=0,`mod_sideskirt_l`=1030,`mod_sideskirt_r`=1030,`mod_lamps`=0,`mod_nitro`=0,`mod_exhaust`=0,`mod_wheels`=0,`mod_stereo`=0,`mod_hydraulics`=1087,`mod_front_bumper`=1169,`mod_rear_bumper`=1141,`mod_vent_right`=0,`mod_vent_left`=0 WHERE `id`=12": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 01:46:44] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:46:51] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:46:56] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `nos`=0,`unlimited_nos`=0,`mod_spoiler`=1138,`mod_hood`=1026,`mod_roof`=0,`mod_sideskirt_l`=1030,`mod_sideskirt_r`=1030,`mod_lamps`=0,`mod_nitro`=0,`mod_exhaust`=0,`mod_wheels`=0,`mod_stereo`=0,`mod_hydraulics`=1087,`mod_front_bumper`=1169,`mod_rear_bumper`=1141,`mod_vent_right`=0,`mod_vent_left`=0 WHERE `id`=12": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 01:46:56] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:47:01] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `nos`=0,`unlimited_nos`=0,`mod_spoiler`=1138,`mod_hood`=1027,`mod_roof`=0,`mod_sideskirt_l`=1030,`mod_sideskirt_r`=1030,`mod_lamps`=0,`mod_nitro`=0,`mod_exhaust`=0,`mod_wheels`=0,`mod_stereo`=0,`mod_hydraulics`=1087,`mod_front_bumper`=1169,`mod_rear_bumper`=1141,`mod_vent_right`=0,`mod_vent_left`=0 WHERE `id`=12": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 01:47:01] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:47:22] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:47:28] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `nos`=1010,`unlimited_nos`=0,`mod_spoiler`=1146,`mod_hood`=0,`mod_roof`=0,`mod_sideskirt_l`=1036,`mod_sideskirt_r`=0,`mod_lamps`=0,`mod_nitro`=1010,`mod_exhaust`=1034,`mod_wheels`=0,`mod_stereo`=0,`mod_hydraulics`=1087,`mod_front_bumper`=0,`mod_rear_bumper`=1148,`mod_vent_right`=0,`mod_vent_left`=0 WHERE `id`=18": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 01:47:28] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:47:39] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:47:44] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `nos`=1010,`unlimited_nos`=0,`mod_spoiler`=1146,`mod_hood`=0,`mod_roof`=0,`mod_sideskirt_l`=1036,`mod_sideskirt_r`=0,`mod_lamps`=0,`mod_nitro`=1010,`mod_exhaust`=1034,`mod_wheels`=0,`mod_stereo`=0,`mod_hydraulics`=1087,`mod_front_bumper`=0,`mod_rear_bumper`=1148,`mod_vent_right`=0,`mod_vent_left`=0 WHERE `id`=18": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 01:47:44] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:47:51] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `nos`=1010,`unlimited_nos`=0,`mod_spoiler`=1146,`mod_hood`=0,`mod_roof`=0,`mod_sideskirt_l`=1036,`mod_sideskirt_r`=0,`mod_lamps`=0,`mod_nitro`=1010,`mod_exhaust`=1034,`mod_wheels`=0,`mod_stereo`=0,`mod_hydraulics`=1087,`mod_front_bumper`=1171,`mod_rear_bumper`=1148,`mod_vent_right`=0,`mod_vent_left`=0 WHERE `id`=18": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 01:47:51] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:47:56] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:48:01] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:48:06] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:48:14] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `nos`=1010,`unlimited_nos`=0,`mod_spoiler`=1146,`mod_hood`=0,`mod_roof`=0,`mod_sideskirt_l`=1036,`mod_sideskirt_r`=0,`mod_lamps`=0,`mod_nitro`=1010,`mod_exhaust`=1037,`mod_wheels`=0,`mod_stereo`=0,`mod_hydraulics`=1087,`mod_front_bumper`=1171,`mod_rear_bumper`=1148,`mod_vent_right`=0,`mod_vent_left`=0 WHERE `id`=18": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 01:48:14] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:48:20] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `nos`=1010,`unlimited_nos`=0,`mod_spoiler`=1146,`mod_hood`=0,`mod_roof`=0,`mod_sideskirt_l`=1036,`mod_sideskirt_r`=0,`mod_lamps`=0,`mod_nitro`=1010,`mod_exhaust`=1037,`mod_wheels`=0,`mod_stereo`=0,`mod_hydraulics`=1087,`mod_front_bumper`=1171,`mod_rear_bumper`=1149,`mod_vent_right`=0,`mod_vent_left`=0 WHERE `id`=18": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 01:48:20] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:48:25] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:48:56] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:48:58] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `nos`=0,`unlimited_nos`=0,`mod_spoiler`=1138,`mod_hood`=0,`mod_roof`=0,`mod_sideskirt_l`=1027,`mod_sideskirt_r`=0,`mod_lamps`=0,`mod_nitro`=0,`mod_exhaust`=0,`mod_wheels`=0,`mod_stereo`=0,`mod_hydraulics`=1087,`mod_front_bumper`=1169,`mod_rear_bumper`=1141,`mod_vent_right`=0,`mod_vent_left`=0 WHERE `id`=12": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 01:48:58] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:49:16] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:49:21] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:49:30] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:49:36] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `nos`=1010,`unlimited_nos`=0,`mod_spoiler`=1146,`mod_hood`=0,`mod_roof`=0,`mod_sideskirt_l`=1036,`mod_sideskirt_r`=0,`mod_lamps`=0,`mod_nitro`=1010,`mod_exhaust`=1037,`mod_wheels`=1097,`mod_stereo`=0,`mod_hydraulics`=1087,`mod_front_bumper`=1171,`mod_rear_bumper`=1149,`mod_vent_right`=0,`mod_vent_left`=0 WHERE `id`=18": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 01:49:36] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:51:56] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:52:03] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:52:21] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:52:23] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `paintjob`=-1,`nos`=1010,`unlimited_nos`=0,`mod_spoiler`=0,`mod_hood`=0,`mod_roof`=0,`mod_sideskirt_l`=0,`mod_sideskirt_r`=0,`mod_lamps`=0,`mod_nitro`=1010,`mod_exhaust`=0,`mod_wheels`=0,`mod_stereo`=0,`mod_hydraulics`=1087,`mod_front_bumper`=0,`mod_rear_bumper`=0,`mod_vent_right`=0,`mod_vent_left`=0 WHERE `id`=18": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 01:52:23] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:52:27] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:52:36] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:52:46] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:52:48] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `paintjob`=-1,`nos`=1010,`unlimited_nos`=0,`mod_spoiler`=0,`mod_hood`=0,`mod_roof`=0,`mod_sideskirt_l`=0,`mod_sideskirt_r`=0,`mod_lamps`=0,`mod_nitro`=1010,`mod_exhaust`=0,`mod_wheels`=0,`mod_stereo`=0,`mod_hydraulics`=1087,`mod_front_bumper`=0,`mod_rear_bumper`=0,`mod_vent_right`=0,`mod_vent_left`=0 WHERE `id`=18": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 01:52:48] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:55:08] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 01:55:10] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `nos`=1010,`unlimited_nos`=0,`mod_spoiler`=0,`mod_hood`=0,`mod_roof`=0,`mod_sideskirt_l`=0,`mod_sideskirt_r`=0,`mod_lamps`=0,`mod_nitro`=1010,`mod_exhaust`=0,`mod_wheels`=0,`mod_stereo`=0,`mod_hydraulics`=1087,`mod_front_bumper`=0,`mod_rear_bumper`=0,`mod_vent_right`=0,`mod_vent_left`=0 WHERE `id`=18": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 01:55:10] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 02:04:54] [WARNING] mysql_connect: no password specified
+[05/12/26 02:04:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 02:04:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 02:04:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 02:04:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 02:04:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 02:04:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 02:04:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 02:04:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 02:04:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 02:04:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 02:04:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 02:04:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 02:04:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 02:04:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 02:04:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 02:04:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 02:04:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 02:04:54] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 02:05:25] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 02:05:50] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 02:06:01] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `nos`=1010,`unlimited_nos`=0,`mod_spoiler`=1138,`mod_hood`=0,`mod_roof`=0,`mod_sideskirt_l`=1036,`mod_sideskirt_r`=0,`mod_lamps`=0,`mod_nitro`=1010,`mod_exhaust`=1037,`mod_wheels`=1078,`mod_stereo`=0,`mod_hydraulics`=1087,`mod_front_bumper`=0,`mod_rear_bumper`=0,`mod_vent_right`=0,`mod_vent_left`=0 WHERE `id`=18": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 02:06:01] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 02:06:06] [ERROR] error #1054 while executing query "UPDATE `vehicles` SET `nos`=1010,`unlimited_nos`=0,`mod_spoiler`=1138,`mod_hood`=0,`mod_roof`=1032,`mod_sideskirt_l`=1036,`mod_sideskirt_r`=0,`mod_lamps`=0,`mod_nitro`=1010,`mod_exhaust`=1037,`mod_wheels`=1078,`mod_stereo`=0,`mod_hydraulics`=1087,`mod_front_bumper`=0,`mod_rear_bumper`=0,`mod_vent_right`=0,`mod_vent_left`=0 WHERE `id`=18": Unknown column 'unlimited_nos' in 'field list'
+[05/12/26 02:06:06] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 02:06:13] [ERROR] cache_get_value_name_int: field 'unlimited_nos' not found
+[05/12/26 02:08:32] [WARNING] mysql_connect: no password specified
+[05/12/26 02:39:38] [WARNING] mysql_connect: no password specified
+[05/12/26 02:52:14] [WARNING] mysql_connect: no password specified
+[05/12/26 02:59:44] [WARNING] mysql_connect: no password specified
+[05/12/26 03:09:00] [WARNING] mysql_connect: no password specified
+[05/12/26 03:11:38] [WARNING] mysql_connect: no password specified
+[05/12/26 03:44:52] [WARNING] mysql_connect: no password specified
+[05/12/26 04:04:11] [WARNING] mysql_connect: no password specified
+[05/12/26 04:05:37] [WARNING] mysql_connect: no password specified
+[05/12/26 04:42:48] [WARNING] mysql_connect: no password specified
+[05/12/26 04:43:30] [WARNING] mysql_connect: no password specified
+[05/12/26 04:54:37] [WARNING] mysql_connect: no password specified
+[05/12/26 13:27:22] [WARNING] mysql_connect: no password specified
+[05/12/26 13:38:57] [WARNING] mysql_connect: no password specified
+[05/12/26 13:40:14] [WARNING] mysql_connect: no password specified
+[05/12/26 14:07:54] [WARNING] mysql_connect: no password specified
+[05/12/26 14:11:28] [WARNING] mysql_connect: no password specified
+[05/12/26 14:11:47] [WARNING] mysql_connect: no password specified
+[05/12/26 14:27:37] [WARNING] mysql_connect: no password specified
+[05/12/26 19:51:32] [WARNING] mysql_connect: no password specified
+[05/12/26 19:55:45] [ERROR] error #1054 while executing query "UPDATE `accounts` SET `1`='100' WHERE `id`=1": Unknown column '1' in 'field list'
+[05/12/26 20:33:41] [WARNING] mysql_connect: no password specified
+[05/12/26 20:46:50] [WARNING] mysql_connect: no password specified
+[05/12/26 21:49:10] [WARNING] mysql_connect: no password specified
+[05/12/26 23:47:32] [WARNING] mysql_connect: no password specified
+[05/12/26 23:52:37] [WARNING] mysql_connect: no password specified
+[05/12/26 23:53:49] [WARNING] mysql_connect: no password specified
+[05/12/26 23:56:11] [WARNING] mysql_connect: no password specified
+[05/12/26 23:58:14] [WARNING] mysql_connect: no password specified
+[05/13/26 01:26:47] [WARNING] mysql_connect: no password specified
+[05/13/26 11:18:07] [WARNING] mysql_connect: no password specified
+[05/13/26 11:46:24] [WARNING] mysql_connect: no password specified
+[05/13/26 13:02:28] [WARNING] mysql_connect: no password specified
+[05/13/26 13:04:00] [WARNING] mysql_connect: no password specified
+[05/13/26 13:25:02] [WARNING] mysql_connect: no password specified
+[05/13/26 13:39:03] [WARNING] mysql_connect: no password specified
+[05/13/26 13:43:06] [WARNING] mysql_connect: no password specified
+[05/13/26 13:49:41] [WARNING] mysql_connect: no password specified
+[05/13/26 14:00:27] [WARNING] mysql_connect: no password specified
+[05/13/26 14:35:48] [WARNING] mysql_connect: no password specified
+[05/13/26 14:39:07] [WARNING] mysql_connect: no password specified
+[05/13/26 14:42:27] [WARNING] mysql_connect: no password specified
+[05/13/26 14:58:46] [WARNING] mysql_connect: no password specified
+[05/13/26 15:01:26] [WARNING] mysql_connect: no password specified
+[05/13/26 15:03:46] [WARNING] mysql_connect: no password specified
+[05/13/26 20:09:11] [WARNING] mysql_connect: no password specified
+[05/13/26 20:09:58] [WARNING] mysql_connect: no password specified
+[05/13/26 20:14:51] [WARNING] mysql_connect: no password specified
+[05/13/26 20:27:44] [WARNING] mysql_connect: no password specified
+[05/13/26 20:43:07] [WARNING] mysql_connect: no password specified
+[05/13/26 20:48:16] [WARNING] mysql_connect: no password specified
+[05/13/26 21:09:16] [ERROR] mysql_format: destination size '256' is too small
+[05/13/26 21:09:16] [ERROR] error #1065 while executing query "": Query was empty
+[05/13/26 21:09:24] [ERROR] mysql_format: destination size '256' is too small
+[05/13/26 21:09:24] [ERROR] error #1065 while executing query "": Query was empty
+[05/13/26 21:09:38] [ERROR] mysql_format: destination size '256' is too small
+[05/13/26 21:09:38] [ERROR] error #1065 while executing query "": Query was empty
+[05/14/26 18:48:24] [WARNING] mysql_connect: no password specified
+[05/14/26 19:24:19] [WARNING] mysql_connect: no password specified
+[05/14/26 19:29:39] [WARNING] mysql_connect: no password specified
+[05/14/26 19:55:54] [WARNING] mysql_connect: no password specified
+[05/14/26 20:06:46] [WARNING] mysql_connect: no password specified
+[05/14/26 20:54:19] [WARNING] mysql_connect: no password specified
+[05/14/26 20:55:14] [WARNING] mysql_connect: no password specified
+[05/14/26 20:55:33] [WARNING] mysql_connect: no password specified
+[05/14/26 21:30:20] [WARNING] mysql_connect: no password specified
+[05/14/26 21:33:24] [WARNING] mysql_connect: no password specified
+[05/14/26 22:34:48] [WARNING] mysql_connect: no password specified
+[05/14/26 23:27:20] [WARNING] mysql_connect: no password specified
+[05/15/26 11:05:31] [WARNING] mysql_connect: no password specified
+[05/15/26 11:35:52] [WARNING] mysql_connect: no password specified
+[05/15/26 11:39:26] [WARNING] mysql_connect: no password specified
+[05/15/26 12:21:24] [WARNING] mysql_connect: no password specified
+[05/15/26 12:57:22] [WARNING] mysql_connect: no password specified
+[05/15/26 13:05:47] [WARNING] mysql_connect: no password specified
+[05/15/26 13:12:45] [WARNING] mysql_connect: no password specified
+[05/15/26 13:15:18] [WARNING] mysql_connect: no password specified
+[05/15/26 13:17:07] [WARNING] mysql_connect: no password specified
+[05/15/26 13:58:28] [WARNING] mysql_connect: no password specified
+[05/15/26 14:21:59] [WARNING] mysql_connect: no password specified
+[05/15/26 14:33:05] [ERROR] mysql_format: destination size '256' is too small
+[05/15/26 14:33:05] [ERROR] error #1065 while executing query "": Query was empty
+[05/15/26 14:33:23] [ERROR] mysql_format: destination size '256' is too small
+[05/15/26 14:33:23] [ERROR] error #1065 while executing query "": Query was empty
+[05/15/26 14:33:49] [ERROR] mysql_format: destination size '256' is too small
+[05/15/26 14:33:49] [ERROR] error #1065 while executing query "": Query was empty
+[05/15/26 15:01:04] [WARNING] mysql_connect: no password specified
+[05/15/26 15:05:58] [WARNING] mysql_connect: no password specified
+[05/15/26 15:22:20] [ERROR] mysql_format: destination size '256' is too small
+[05/15/26 15:22:20] [ERROR] error #1065 while executing query "": Query was empty
+[05/15/26 15:22:29] [ERROR] mysql_format: destination size '256' is too small
+[05/15/26 15:22:29] [ERROR] error #1065 while executing query "": Query was empty
+[05/15/26 15:22:36] [ERROR] mysql_format: destination size '256' is too small
+[05/15/26 15:22:36] [ERROR] error #1065 while executing query "": Query was empty
+[05/15/26 15:26:41] [ERROR] mysql_format: destination size '256' is too small
+[05/15/26 15:26:41] [ERROR] error #1065 while executing query "": Query was empty
+[05/15/26 15:32:50] [WARNING] mysql_connect: no password specified
+[05/15/26 15:37:47] [ERROR] mysql_format: destination size '256' is too small
+[05/15/26 15:37:47] [ERROR] error #1065 while executing query "": Query was empty
+[05/15/26 15:38:19] [ERROR] mysql_format: destination size '256' is too small
+[05/15/26 15:38:19] [ERROR] error #1065 while executing query "": Query was empty
+[05/15/26 15:41:57] [WARNING] mysql_connect: no password specified
+[05/15/26 15:53:46] [ERROR] mysql_format: destination size '256' is too small
+[05/15/26 15:53:46] [ERROR] error #1065 while executing query "": Query was empty
+[05/15/26 15:54:54] [ERROR] mysql_format: destination size '256' is too small
+[05/15/26 15:54:54] [ERROR] error #1065 while executing query "": Query was empty
+[05/15/26 16:00:08] [WARNING] mysql_connect: no password specified
+[05/15/26 16:04:21] [WARNING] mysql_connect: no password specified
+[05/15/26 16:12:06] [WARNING] mysql_connect: no password specified
+[05/15/26 16:16:07] [WARNING] mysql_connect: no password specified
+[05/15/26 16:28:34] [WARNING] mysql_connect: no password specified
+[05/15/26 16:39:15] [WARNING] mysql_connect: no password specified
+[05/15/26 17:00:00] [WARNING] mysql_connect: no password specified
+[05/15/26 17:03:52] [WARNING] mysql_connect: no password specified
+[05/15/26 17:14:49] [WARNING] mysql_connect: no password specified
+[05/15/26 17:26:49] [WARNING] mysql_connect: no password specified
+[05/15/26 17:55:16] [WARNING] mysql_connect: no password specified
+[05/15/26 18:00:36] [WARNING] mysql_connect: no password specified
+[05/15/26 18:01:46] [WARNING] mysql_connect: no password specified
+[05/15/26 18:03:41] [WARNING] mysql_connect: no password specified
+[05/15/26 18:05:58] [WARNING] mysql_connect: no password specified
+[05/15/26 18:09:21] [WARNING] mysql_connect: no password specified
+[05/15/26 18:10:57] [WARNING] mysql_connect: no password specified
+[05/15/26 18:15:11] [WARNING] mysql_connect: no password specified
+[05/15/26 18:16:41] [WARNING] mysql_connect: no password specified
+[05/16/26 00:05:39] [WARNING] mysql_connect: no password specified
+[05/16/26 00:10:30] [WARNING] mysql_connect: no password specified
+[05/16/26 00:23:56] [WARNING] mysql_connect: no password specified
+[05/16/26 00:25:43] [WARNING] mysql_connect: no password specified
+[05/16/26 00:27:58] [WARNING] mysql_connect: no password specified
+[05/16/26 00:29:16] [WARNING] mysql_connect: no password specified
+[05/16/26 00:37:41] [WARNING] mysql_connect: no password specified
+[05/16/26 00:39:10] [WARNING] mysql_connect: no password specified
+[05/16/26 01:27:13] [WARNING] mysql_connect: no password specified
+[05/16/26 01:29:08] [WARNING] mysql_connect: no password specified
+[05/16/26 02:42:14] [WARNING] mysql_connect: no password specified
+[05/16/26 04:35:32] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/16/26 04:35:32] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/16/26 04:35:32] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/16/26 04:35:32] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/16/26 04:36:45] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/16/26 04:36:45] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/16/26 04:36:45] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/16/26 04:36:45] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/16/26 04:37:36] [WARNING] mysql_connect: no password specified
+[05/16/26 10:28:27] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/16/26 10:28:27] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/16/26 10:28:27] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/16/26 10:28:27] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/16/26 10:28:42] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/16/26 10:28:42] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/16/26 10:28:42] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/16/26 10:28:42] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/16/26 10:29:55] [WARNING] mysql_connect: no password specified
+[05/16/26 10:29:55] [ERROR] error #1146 while executing query "SELECT * FROM `points` WHERE `enabled`=1 ORDER BY `id` ASC": Table 'expressrp.points' doesn't exist
+[05/16/26 10:29:55] [ERROR] error #1146 while executing query "SELECT * FROM `turfs` WHERE `enabled`=1 ORDER BY `id` ASC": Table 'expressrp.turfs' doesn't exist
+[05/16/26 10:35:27] [WARNING] mysql_connect: no password specified
+[05/16/26 11:04:18] [WARNING] mysql_connect: no password specified
+[05/17/26 21:11:54] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/17/26 21:11:54] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/17/26 21:11:54] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/17/26 21:11:54] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/17/26 21:12:51] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/17/26 21:12:51] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/17/26 21:12:51] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/17/26 21:12:51] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/17/26 21:17:34] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/17/26 21:17:34] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/17/26 21:17:34] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/17/26 21:17:34] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/17/26 21:17:48] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/17/26 21:17:48] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/17/26 21:17:48] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/17/26 21:17:48] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/17/26 22:15:45] [WARNING] mysql_connect: no password specified
+[05/17/26 22:47:28] [WARNING] mysql_connect: no password specified
+[05/17/26 23:02:49] [WARNING] mysql_connect: no password specified
+[05/17/26 23:42:32] [WARNING] mysql_connect: no password specified
+[05/18/26 00:12:10] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/18/26 00:12:10] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/18/26 00:12:10] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/18/26 00:12:10] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/18/26 00:12:47] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/18/26 00:12:47] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/18/26 00:12:47] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/18/26 00:12:47] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/18/26 00:13:33] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/18/26 00:13:33] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/18/26 00:13:33] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/18/26 00:13:33] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/18/26 00:14:48] [WARNING] mysql_connect: no password specified
+[05/18/26 00:18:28] [ERROR] error #1064 while executing query "UPDATE `families` SET `leader_id`=0,`leader_name`='Nobody' WHERE `leader_id`=1; UPDATE `factions` SET `leader_id`=0,`leader_name`='Nobody' WHERE `leader_id`=1 AND `id`<>1; UPDATE `accounts` SET `family_id`=0,`family_rank`=0,`family_crew`=0,`faction_id`=1,`faction_rank`=6,`faction_division`=0 WHERE `id`=1; UPDATE `factions` SET `leader_id`=1,`leader_name`='Jimmy_Richardson' WHERE `id`=1": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'UPDATE `factions` SET `leader_id`=0,`leader_name`='Nobody' WHERE `leader_id`=...' at line 1
+[05/18/26 00:20:51] [ERROR] error #1064 while executing query "UPDATE `families` SET `leader_id`=0,`leader_name`='Nobody' WHERE `leader_id`=1; UPDATE `factions` SET `leader_id`=0,`leader_name`='Nobody' WHERE `leader_id`=1 AND `id`<>1; UPDATE `accounts` SET `family_id`=0,`family_rank`=0,`family_crew`=0,`faction_id`=1,`faction_rank`=6,`faction_division`=0 WHERE `id`=1; UPDATE `factions` SET `leader_id`=1,`leader_name`='Jimmy_Richardson' WHERE `id`=1": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'UPDATE `factions` SET `leader_id`=0,`leader_name`='Nobody' WHERE `leader_id`=...' at line 1
+[05/18/26 00:21:25] [ERROR] error #1064 while executing query "UPDATE `families` SET `leader_id`=0,`leader_name`='Nobody' WHERE `leader_id`=1; UPDATE `factions` SET `leader_id`=0,`leader_name`='Nobody' WHERE `leader_id`=1 AND `id`<>1; UPDATE `accounts` SET `family_id`=0,`family_rank`=0,`family_crew`=0,`faction_id`=1,`faction_rank`=6,`faction_division`=0 WHERE `id`=1; UPDATE `factions` SET `leader_id`=1,`leader_name`='Jimmy_Richardson' WHERE `id`=1": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'UPDATE `factions` SET `leader_id`=0,`leader_name`='Nobody' WHERE `leader_id`=...' at line 1
+[05/18/26 00:21:38] [ERROR] error #1064 while executing query "UPDATE `families` SET `leader_id`=0,`leader_name`='Nobody' WHERE `leader_id`=1; UPDATE `factions` SET `leader_id`=0,`leader_name`='Nobody' WHERE `leader_id`=1 AND `id`<>1; UPDATE `accounts` SET `family_id`=0,`family_rank`=0,`family_crew`=0,`faction_id`=1,`faction_rank`=6,`faction_division`=0 WHERE `id`=1; UPDATE `factions` SET `leader_id`=1,`leader_name`='Jimmy_Richardson' WHERE `id`=1": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'UPDATE `factions` SET `leader_id`=0,`leader_name`='Nobody' WHERE `leader_id`=...' at line 1
+[05/18/26 00:30:54] [ERROR] error #1064 while executing query "UPDATE `factions` SET `leader_id`=0,`leader_name`='Nobody' WHERE `leader_id`=1; UPDATE `families` SET `leader_id`=0,`leader_name`='Nobody' WHERE `leader_id`=1 AND `id`<>1; UPDATE `accounts` SET `faction_id`=0,`faction_rank`=0,`faction_division`=0,`family_id`=1,`family_rank`=6,`family_crew`=0 WHERE `id`=1; UPDATE `families` SET `leader_id`=1,`leader_name`='Jimmy_Richardson' WHERE `id`=1": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'UPDATE `families` SET `leader_id`=0,`leader_name`='Nobody' WHERE `leader_id`=...' at line 1
+[05/18/26 00:31:25] [ERROR] error #1064 while executing query "UPDATE `factions` SET `leader_id`=0,`leader_name`='Nobody' WHERE `leader_id`=1; UPDATE `families` SET `leader_id`=0,`leader_name`='Nobody' WHERE `leader_id`=1 AND `id`<>1; UPDATE `accounts` SET `faction_id`=0,`faction_rank`=0,`faction_division`=0,`family_id`=1,`family_rank`=6,`family_crew`=0 WHERE `id`=1; UPDATE `families` SET `leader_id`=1,`leader_name`='Jimmy_Richardson' WHERE `id`=1": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'UPDATE `families` SET `leader_id`=0,`leader_name`='Nobody' WHERE `leader_id`=...' at line 1
+[05/18/26 00:31:51] [ERROR] error #1064 while executing query "UPDATE `factions` SET `leader_id`=0,`leader_name`='Nobody' WHERE `leader_id`=1; UPDATE `families` SET `leader_id`=0,`leader_name`='Nobody' WHERE `leader_id`=1 AND `id`<>1; UPDATE `accounts` SET `faction_id`=0,`faction_rank`=0,`faction_division`=0,`family_id`=1,`family_rank`=6,`family_crew`=0 WHERE `id`=1; UPDATE `families` SET `leader_id`=1,`leader_name`='Jimmy_Richardson' WHERE `id`=1": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'UPDATE `families` SET `leader_id`=0,`leader_name`='Nobody' WHERE `leader_id`=...' at line 1
+[05/18/26 01:35:56] [WARNING] mysql_connect: no password specified
+[05/18/26 01:55:45] [WARNING] mysql_connect: no password specified
+[05/18/26 02:25:43] [WARNING] mysql_connect: no password specified
+[05/18/26 02:34:42] [WARNING] mysql_connect: no password specified
+[05/18/26 03:57:29] [WARNING] mysql_connect: no password specified
+[05/18/26 03:57:58] [WARNING] mysql_connect: no password specified
+[05/18/26 04:33:28] [WARNING] mysql_connect: no password specified
+[05/18/26 04:36:29] [WARNING] mysql_connect: no password specified
+[05/18/26 04:42:05] [WARNING] mysql_connect: no password specified
+[05/18/26 05:08:25] [ERROR] error #1054 while executing query "UPDATE `family_lockers` SET `x`=2175.828369,`y`=-1705.063232,`z`=13.252552,`a`=67.331696,`interior`=0,`vw`=0,`enabled`=1 WHERE `family_id`=1 LIMIT 1": Unknown column 'a' in 'field list'
+[05/18/26 08:57:16] [WARNING] mysql_connect: no password specified
+[05/18/26 08:57:16] [ERROR] cache_get_value_name_float: field 'move_speed' not found
+[05/18/26 08:57:16] [ERROR] cache_get_value_name_float: field 'range' not found
+[05/18/26 08:57:16] [ERROR] cache_get_value_name_float: field 'move_speed' not found
+[05/18/26 08:57:16] [ERROR] cache_get_value_name_float: field 'range' not found
+[05/18/26 08:57:16] [ERROR] cache_get_value_name_float: field 'move_speed' not found
+[05/18/26 08:57:16] [ERROR] cache_get_value_name_float: field 'range' not found
+[05/18/26 08:57:16] [ERROR] cache_get_value_name_float: field 'move_speed' not found
+[05/18/26 08:57:16] [ERROR] cache_get_value_name_float: field 'range' not found
+[05/18/26 09:08:17] [ERROR] error #1054 while executing query "UPDATE `family_lockers` SET `x`=2004.148315,`y`=-1443.997437,`z`=13.562270,`a`=134.408386,`interior`=0,`vw`=0,`enabled`=1 WHERE `family_id`=1 LIMIT 1": Unknown column 'a' in 'field list'
+[05/18/26 09:24:48] [WARNING] mysql_connect: no password specified
+[05/18/26 09:24:49] [ERROR] cache_get_value_name_float: field 'move_speed' not found
+[05/18/26 09:24:49] [ERROR] cache_get_value_name_float: field 'range' not found
+[05/18/26 09:24:49] [ERROR] cache_get_value_name_float: field 'move_speed' not found
+[05/18/26 09:24:49] [ERROR] cache_get_value_name_float: field 'range' not found
+[05/18/26 09:24:49] [ERROR] cache_get_value_name_float: field 'move_speed' not found
+[05/18/26 09:24:49] [ERROR] cache_get_value_name_float: field 'range' not found
+[05/18/26 09:24:49] [ERROR] cache_get_value_name_float: field 'move_speed' not found
+[05/18/26 09:24:49] [ERROR] cache_get_value_name_float: field 'range' not found
+[05/18/26 09:30:47] [ERROR] error #1054 while executing query "UPDATE `gates` SET `range`=12.000000 WHERE `id`=2": Unknown column 'range' in 'field list'
+[05/18/26 09:30:55] [ERROR] error #1054 while executing query "UPDATE `gates` SET `range`=12.000000 WHERE `id`=1": Unknown column 'range' in 'field list'
+[05/18/26 09:31:44] [ERROR] error #1054 while executing query "UPDATE `gates` SET `range`=12.000000 WHERE `id`=1": Unknown column 'range' in 'field list'
+[05/18/26 09:32:23] [ERROR] error #1054 while executing query "UPDATE `gates` SET `move_speed`=3.000000 WHERE `id`=2": Unknown column 'move_speed' in 'field list'
+[05/20/26 19:20:48] [WARNING] mysql_connect: no password specified
+[05/20/26 19:20:50] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[05/20/26 19:20:52] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[05/20/26 19:20:54] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[05/20/26 19:20:56] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[05/20/26 19:22:25] [WARNING] mysql_connect: no password specified
+[05/21/26 14:47:52] [WARNING] mysql_connect: no password specified
+[05/21/26 15:24:17] [WARNING] mysql_connect: no password specified
+[05/21/26 15:42:57] [WARNING] mysql_connect: no password specified
+[05/21/26 20:25:07] [WARNING] mysql_connect: no password specified
+[05/21/26 20:40:49] [WARNING] mysql_connect: no password specified
+[05/21/26 21:23:12] [WARNING] mysql_connect: no password specified
+[05/21/26 21:29:03] [WARNING] mysql_connect: no password specified
+[05/21/26 22:21:10] [WARNING] mysql_connect: no password specified
+[05/21/26 22:30:42] [WARNING] mysql_connect: no password specified
+[05/21/26 22:52:04] [WARNING] mysql_connect: no password specified
+[05/21/26 22:53:18] [WARNING] mysql_connect: no password specified
+[05/21/26 22:59:55] [WARNING] mysql_connect: no password specified
+[05/21/26 23:06:24] [WARNING] mysql_connect: no password specified
+[05/26/26 17:18:01] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/26/26 17:18:01] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/26/26 17:18:01] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/26/26 17:18:01] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[05/26/26 17:18:57] [WARNING] mysql_connect: no password specified
+[05/26/26 17:19:53] [WARNING] mysql_connect: no password specified
+[05/26/26 17:45:54] [WARNING] mysql_connect: no password specified
+[05/26/26 17:46:58] [WARNING] mysql_connect: no password specified
+[05/26/26 18:00:44] [WARNING] mysql_connect: no password specified
+[05/26/26 18:07:19] [WARNING] mysql_connect: no password specified
+[05/26/26 18:09:35] [WARNING] mysql_connect: no password specified
+[05/26/26 18:12:18] [WARNING] mysql_connect: no password specified
+[05/26/26 18:13:25] [ERROR] cache_get_value_name_int: field 'repair_kits' not found
+[05/26/26 18:13:25] [ERROR] cache_get_value_name_int: field 'screwdrivers' not found
+[05/26/26 18:13:25] [ERROR] cache_get_value_name_int: field 'has_jerry_can' not found
+[05/26/26 18:13:25] [ERROR] cache_get_value_name_float: field 'jerry_can_fuel' not found
+[05/26/26 18:24:09] [WARNING] mysql_connect: no password specified
+[05/26/26 18:25:43] [WARNING] mysql_connect: no password specified
+[05/26/26 19:09:32] [WARNING] mysql_connect: no password specified
+[05/26/26 19:24:39] [WARNING] mysql_connect: no password specified
+[05/26/26 19:51:14] [WARNING] mysql_connect: no password specified
+[05/26/26 20:01:15] [WARNING] mysql_connect: no password specified
+[05/26/26 20:18:57] [WARNING] mysql_connect: no password specified
+[05/27/26 05:50:15] [ERROR] error #2013 while executing query "UPDATE `accounts` SET `spawn_x`=1945.920898,`spawn_y`=-1780.539673,`spawn_z`=12.960831,`spawn_a`=12.434660,`spawn_int`=0,`spawn_vw`=0 WHERE `id`=1": Lost connection to MySQL server during query
+[05/27/26 06:01:22] [WARNING] mysql_connect: no password specified
+[05/27/26 07:10:02] [WARNING] mysql_connect: no password specified
+[05/27/26 07:42:43] [WARNING] mysql_connect: no password specified
+[05/27/26 07:45:44] [WARNING] mysql_connect: no password specified
+[05/27/26 10:26:37] [WARNING] mysql_connect: no password specified
+[05/27/26 11:18:42] [WARNING] mysql_connect: no password specified
+[05/27/26 12:14:39] [WARNING] mysql_connect: no password specified
+[05/28/26 12:37:41] [WARNING] mysql_connect: no password specified
+[05/28/26 12:43:28] [WARNING] mysql_connect: no password specified
+[05/29/26 05:33:02] [WARNING] mysql_connect: no password specified
+[05/29/26 11:32:43] [WARNING] mysql_connect: no password specified
+[05/29/26 14:50:02] [WARNING] mysql_connect: no password specified
+[05/29/26 17:44:25] [WARNING] mysql_connect: no password specified
+[06/13/26 01:04:07] [WARNING] mysql_connect: no password specified
+[06/13/26 01:04:09] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[06/13/26 01:04:11] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[06/13/26 01:04:13] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[06/13/26 01:04:15] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[06/13/26 01:21:14] [WARNING] mysql_connect: no password specified
+[06/13/26 01:21:14] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'expressrp''
+[06/13/26 01:21:14] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'expressrp''
+[06/13/26 01:21:14] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'expressrp''
+[06/13/26 01:21:14] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'expressrp''
+[06/13/26 01:22:33] [WARNING] mysql_connect: no password specified
+[06/13/26 01:38:20] [ERROR] error #2013 while executing query "SELECT `id`,`password` FROM `accounts` WHERE `username`='Jimmy_Richardson' LIMIT 1": Lost connection to MySQL server during query
+[06/26/26 17:47:46] [WARNING] mysql_connect: no password specified
+[06/26/26 17:59:41] [WARNING] mysql_connect: no password specified
+[06/26/26 18:12:01] [WARNING] mysql_connect: no password specified
+[06/26/26 18:16:52] [WARNING] mysql_connect: no password specified
+[07/18/26 13:55:47] [WARNING] mysql_connect: no password specified
+[07/22/26 12:05:05] [WARNING] mysql_connect: no password specified
+[07/22/26 12:53:08] [WARNING] mysql_connect: no password specified
+[07/22/26 22:36:20] [WARNING] mysql_connect: no password specified
+[07/22/26 22:40:08] [WARNING] mysql_connect: no password specified
+[07/22/26 22:45:38] [WARNING] mysql_connect: no password specified
+[07/22/26 22:49:46] [WARNING] mysql_connect: no password specified
+[07/22/26 23:11:52] [ERROR] error #1054 while executing query "UPDATE `accounts` SET `1`='1' WHERE `id`=1": Unknown column '1' in 'field list'
