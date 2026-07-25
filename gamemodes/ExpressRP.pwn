@@ -45,6 +45,7 @@ new bool:ER_FirstSpawned[MAX_PLAYERS];
 #include "includes/systems/houses.pwn"
 #include "includes/systems/doors.pwn"
 #include "includes/systems/admin.pwn"
+#include "includes/systems/moderation.pwn"
 #include "includes/systems/toys.pwn"
 #include "includes/systems/reload.pwn"
 //  MAPS
@@ -93,6 +94,7 @@ public OnGameModeInit()
     SetTimer("ER_VehicleHudTick", 1000, true);
     SetTimer("ER_AutoSavePlayerPositions", 30000, true);
     SetTimer("ER_PointMaintenanceTick", 60000, true);
+    SetTimer("ER_ModerationTick", 60000, true);
     ER_LoadDealershipDisplays();
 	//  MAPS
 	LoadPershingSquareMap();	// Pershing Square MAP
@@ -123,6 +125,10 @@ public OnPlayerConnect(playerid)
 {
     ER_ClearChat(playerid);
     ER_ClearGunSaleOffer(playerid);
+
+    GetPlayerIp(playerid, PlayerInfo[playerid][pLastIP], 16);
+    PlayerInfo[playerid][pFrozen] = false;
+    PlayerInfo[playerid][pGodMode] = false;
 
     ER_ResetPlayer(playerid);
     TogglePlayerSpectating(playerid, true);
@@ -188,6 +194,11 @@ public OnPlayerSpawn(playerid)
 public OnPlayerText(playerid, text[])
 {
     if(!PlayerInfo[playerid][pLoggedIn]) return 0;
+    if(PlayerInfo[playerid][pMuted])
+    {
+        ER_Send(playerid, COLOR_LIGHTRED, "You are muted and cannot use local chat.");
+        return 0;
+    }
     if(ER_PhoneText(playerid, text)) return 0;
     if(ER_HandleVehicleWindowText(playerid, text)) return 0;
     ER_LocalChat(playerid, text, CHAT_RANGE_NORMAL);

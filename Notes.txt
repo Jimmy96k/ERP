@@ -1,0 +1,36 @@
+in faction/family lockers when player do /locker
+
+Materials / Safe , It should make another dialog when opened show balance and 2 buttons Deposit / Withdraw, when select make another dialog with input to deposit or withdraw and must check if he has materials enough to deposit or when withdraw check if materials enough in locker to withdraw based on rank permessions allowed or not
+
+Also in /editfaction /editfamily , When I select Safe in the dialog it should Show Set Safe Position And Balance: ...$
+
+And when i select Set Safe position it set the safe position for that at my place, also when select balance allow me to edit the safe balance
+
+Same to /factionsettings , /familysettings
+
+and make /safedeposit , /safewithdraw if he standing at the safe position and check the permessions for his rank if allowed to deposit , withdraw like materials and must check if safe has suffecient balance if withdrawing or he has suffecient amount if depositing
+
+Add /setrank playerid rank for family/faction - Must be leader or his rank is permitted through permessions., Announce it in Faction /r or Family /f ... has been promoted to Rank ..(rankname) by ... , or ... has been demoted to Rank ..(rankname) by ... , also /facinvite and /fackick , announce ... has accepted to join the family/faction, invited by .... ... has been kicked from the family/faction, kicked by .... 
+No Rank 6 can kick any rank 6 unless the leader is kicking other rank 6 no rank 6 can demote other rank 6 unless his the leader.
+No rank 5 can give him self rank 6 even if his allowed by permessions to promote/demote
+no rank 5 can demote/promote rank other same rank or higher rank
+When i do clear leader in family faction , it should reset the leader family or faction as well if his online or offline, also when it has a current leader and i put new leader the old leader faction family must be removed as well
+Also in lockers / safes for factions/families pickup icon , and textdraw required .... Safe /safe
+.... Locker /locker
+and remove the Safe from the /locker dialog
+Make a /nearest CMD like the /nearestobj,
+but if /nearest alone is used check within range 10.0
+if /nearest range if the player type a specific range check things with the range he type for ex /nearest 100
+Then check within 100.0 radius
+Listing Nearest...
+Business - ID (...) - Exterior/Interior - Range: ...
+House    - ID (...) - Exterior/Interior - Range: ...
+Door     - ID (...) - Exterior/Interior - Range: ...
+Gate     - ID (...) - ModelNo: .... - ClosedPos/OpenPos - Range: ...
+Vehicle  - ID (...) - Modelname - Owner:(....) - Range: ...
+Point	 - ID (...) - NAME - Range: ...
+Turf	 - ID (...) - NAME - Range: ...
+for ex if near the exterior 
+Business - ID (...) - Exterior - Range: ...
+
+and so on

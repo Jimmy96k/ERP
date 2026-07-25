@@ -3,7 +3,7 @@
 #endif
 #define _ER_FACTIONS_INCLUDED
 
-#define MAX_FACTIONS 100
+#define MAX_FACTIONS 250 // static type list, but faction *instances* are effectively unlimited (headroom cap, not a design limit)
 #define FACTION_CHAT_COLOR_DEFAULT 0x33CCFFFF // cyan
 #define FACTION_DIV_COLOR_DEFAULT 0xFFFF00FF // yellow
 
@@ -73,6 +73,20 @@ stock ER_GetFactionTypeName(type, dest[], size = sizeof(dest))
         default: format(dest, size, "None");
     }
     return 1;
+}
+
+stock ER_ResolveFactionTypeInput(const input[])
+{
+    // Static, fixed list of faction TYPES. New faction INSTANCES are unlimited (up to MAX_FACTIONS headroom),
+    // but every instance must belong to one of these predefined types.
+    if(!strcmp(input, "police", true))      return FACTION_TYPE_POLICE;
+    if(!strcmp(input, "government", true) || !strcmp(input, "gov", true)) return FACTION_TYPE_GOVERNMENT;
+    if(!strcmp(input, "ems", true) || !strcmp(input, "fire", true))       return FACTION_TYPE_EMS;
+    if(!strcmp(input, "news", true))        return FACTION_TYPE_NEWS;
+    if(!strcmp(input, "criminal", true) || !strcmp(input, "crime", true)) return FACTION_TYPE_CRIMINAL;
+    if(!strcmp(input, "federal", true) || !strcmp(input, "fed", true))    return FACTION_TYPE_FEDERAL;
+    if(!strcmp(input, "corrections", true) || !strcmp(input, "prison", true)) return FACTION_TYPE_CORRECTIONS;
+    return -1; // invalid/unknown type string
 }
 
 stock ER_FindFactionIndexBySQLID(fid)
@@ -242,10 +256,25 @@ stock ER_CreateDefaultFactionRows(fid)
 
 CMD:createfaction(playerid, params[])
 {
+    new typestr[16], name[64];
     if(!ER_IsAdmin(playerid, ADMIN_HEAD)) return ER_Send(playerid, COLOR_GREY, "You are not authorized.");
-    if(isnull(params)) return ER_Send(playerid, COLOR_GREY, "USAGE: /createfaction [name]");
+    if(sscanf(params, "s[16]S()[64]", typestr, name))
+        return ER_Send(playerid, COLOR_GREY, "USAGE: /createfaction [type] [name]  -  types: police, government, ems, news, criminal, federal, corrections");
+
+    new type = ER_ResolveFactionTypeInput(typestr);
+    if(type == -1)
+        return ER_Send(playerid, COLOR_GREY, "Invalid faction type. Valid types: police, government, ems, news, criminal, federal, corrections.");
+
+    if(isnull(name))
+        return ER_Send(playerid, COLOR_GREY, "USAGE: /createfaction [type] [name]");
+
+    // Faction TYPES are a fixed/static list (above). Faction INSTANCES are not limited by design,
+    // only by this technical headroom cap so the server doesn't run out of array slots.
+    if(FactionCount >= MAX_FACTIONS)
+        return ER_Send(playerid, COLOR_GREY, "Faction slot limit reached. Increase MAX_FACTIONS in factions.pwn to allow more.");
+
     new q[700];
-    mysql_format(MainPipeline, q, sizeof(q), "INSERT INTO `factions` (`name`,`type`,`leader_id`,`leader_name`,`motd`,`members_count`,`set_motd_rank`,`invite_kick_rank`,`point_capture_rank`,`turf_capture_rank`,`safe_deposit_rank`,`safe_withdraw_rank`,`locker_deposit_rank`,`locker_withdraw_rank`,`locker_gun_rank`,`business_safe_deposit_rank`,`business_safe_withdraw_rank`,`business_restock_rank`,`business_lock_rank`,`door_lock_rank`,`color`,`radio_color`,`division_color`,`enabled`) VALUES ('%e',0,%d,'%e','Welcome to the faction.',1,5,5,5,5,1,5,1,5,1,5,5,5,5,5,%d,%d,%d,1)", params, PlayerInfo[playerid][pID], PlayerInfo[playerid][pName], FACTION_CHAT_COLOR_DEFAULT, FACTION_CHAT_COLOR_DEFAULT, FACTION_DIV_COLOR_DEFAULT);
+    mysql_format(MainPipeline, q, sizeof(q), "INSERT INTO `factions` (`name`,`type`,`leader_id`,`leader_name`,`motd`,`members_count`,`set_motd_rank`,`invite_kick_rank`,`point_capture_rank`,`turf_capture_rank`,`safe_deposit_rank`,`safe_withdraw_rank`,`locker_deposit_rank`,`locker_withdraw_rank`,`locker_gun_rank`,`business_safe_deposit_rank`,`business_safe_withdraw_rank`,`business_restock_rank`,`business_lock_rank`,`door_lock_rank`,`color`,`radio_color`,`division_color`,`enabled`) VALUES ('%e',%d,%d,'%e','Welcome to the faction.',1,5,5,5,5,1,5,1,5,1,5,5,5,5,5,%d,%d,%d,1)", name, type, PlayerInfo[playerid][pID], PlayerInfo[playerid][pName], FACTION_CHAT_COLOR_DEFAULT, FACTION_CHAT_COLOR_DEFAULT, FACTION_DIV_COLOR_DEFAULT);
     mysql_tquery(MainPipeline, q, "ER_OnFactionCreated", "i", playerid);
     return 1;
 }

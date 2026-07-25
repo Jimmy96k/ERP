@@ -7,7 +7,7 @@
 #define MYSQL_HOST "127.0.0.1"
 #define MYSQL_USER "root"
 #define MYSQL_PASS ""
-#define MYSQL_DB   "expressrp"
+#define MYSQL_DB   "expressrp_updated"
 
 #define MAX_PLAYER_NAME_EX 24
 #define MAX_JOBS_PER_PLAYER 10

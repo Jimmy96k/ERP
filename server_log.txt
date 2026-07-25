@@ -22083,3 +22083,104 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [23:20:58] [Hospitals] Loaded 10 beds.
 [23:21:10] [death] Mr_Richardson died 255
 [00:04:05] [part] Mr_Richardson has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:18:50] weburl = "www.sa-mp.com"  (string)
+[15:18:50] 
+[15:18:50] Server Plugins
+[15:18:50] --------------
+[15:18:50]  Loading plugin: crashdetect
+[15:18:50]   CrashDetect v4.18.1 is OK.
+[15:18:50]   Loaded.
+[15:18:50]  Loading plugin: mysql
+[15:18:50]  >> plugin.mysql: R41-4 successfully loaded.
+[15:18:50]   Loaded.
+[15:18:50]  Loading plugin: sscanf
+[15:18:50] 
+
+[15:18:50]  ===============================
+
+[15:18:50]       sscanf plugin loaded.     
+
+[15:18:50]          Version:  2.8.3        
+
+[15:18:50]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:18:50]  ===============================
+
+[15:18:50]   Loaded.
+[15:18:50]  Loading plugin: streamer
+[15:18:50] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:18:50]   Loaded.
+[15:18:50]  Loading plugin: whirlpool
+[15:18:50]  
+[15:18:50]  ==================
+[15:18:50]  
+[15:18:50]   Whirlpool loaded
+[15:18:50]  
+[15:18:50]  ==================
+[15:18:50]  
+[15:18:50]   Loaded.
+[15:18:50]  Loading plugin: pawncmd
+[15:18:50] [Pawn.CMD] plugin v3.3.3 by urShadow loaded
+[15:18:50]   Loaded.
+[15:18:50]  Loaded 6 plugins.
+
+[15:18:50] 
+[15:18:50] Filterscripts
+[15:18:50] ---------------
+[15:18:50]   Loading filterscript 'server.amx'...
+[15:18:50] AMX (47077880) loaded
+[15:18:51]   Loaded 1 filterscripts.
+
+[15:18:51] AMX (46986088) loaded
+[15:18:51] [ExpressRP MySQL] Connected successfully.
+[15:18:51] [Toys] Toy catalog uses SQL on demand.
+[15:18:51] Number of vehicle models: 0
+[15:18:51] [ServerCore] Loaded 76 key/value entries.
+[15:18:51] [ServerCore] Loaded 25 weapon material costs.
+[15:18:51] [Hospitals] Loaded 2 hospitals.
+[15:18:51] [Hospitals] Loaded 9 beds.
+[15:18:51] [RadioStations] Loaded 92 stations in 29 categories.
+[15:18:51] [AudioZones] Loaded 2 audio zones.
+[15:18:51] [WeaponMaterialCosts] Loaded 25 weapon material-cost rows.
+[15:18:51] [Businesses] Loaded 19 businesses.
+[15:18:51] [BusinessATMs] Loaded 1 ATMs.
+[15:18:51] [GasPumps] Loaded 1 gas pumps.
+[15:18:51] [Houses] Loaded 17 houses.
+[15:18:51] [Doors] Loaded 8 doors.
+[15:18:51] [Families] Loaded 4 families.
+[15:18:51] [Factions] Loaded 5 factions.
+[15:18:51] [Jobs] Loaded 21 jobs.
+[15:18:51] [Matruns] Loaded 4 material runs.
+[15:18:51] [Gates] Loaded 8 gates.
+[15:18:51] [Points] Loaded 7 capture points.
+[15:18:51] [Turfs] Loaded 1 turfs.
+[15:18:51] [Vehicles] Loaded 39 vehicles.
+[15:18:51] [DealershipVehicles] Loaded 5 display vehicles.
+[15:18:51] [Matruns] Loaded 4 material runs.
+[15:19:32] [connection] incoming connection: 127.0.0.1:50513 id: 0
+[15:19:32] [join] Jimmy_Richardson has joined the server (0:127.0.0.1)
+[15:20:25] [chat] [Jimmy_Richardson]: hihi
+[15:26:29] [death] Jimmy_Richardson died 54
+[15:33:00] [Families] Loaded 4 families.
+[15:33:00] [Factions] Loaded 5 factions.
+[15:33:14] [Families] Loaded 4 families.
+[15:33:32] [Families] Loaded 4 families.
+[15:33:32] [Factions] Loaded 5 factions.
+[15:37:01] [Matruns] Loaded 4 material runs.
+[15:39:42] [Families] Loaded 4 families.
+[15:39:42] [Factions] Loaded 5 factions.
+[15:40:37] [Factions] Loaded 5 factions.
+[16:07:36] [Factions] Loaded 5 factions.
+[16:07:48] [Factions] Loaded 5 factions.

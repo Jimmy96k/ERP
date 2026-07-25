@@ -1,1 +1,0 @@
-[07/22/26 23:11:52] [plugins/mysql] error #1054 while executing query "UPDATE `accounts` SET `1`='1' WHERE `id`=1": Unknown column '1' in 'field list'

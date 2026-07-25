@@ -61,6 +61,26 @@ public ER_OnCharacterLoad(playerid)
     cache_get_value_name_int(0, "id", PlayerInfo[playerid][pID]);
     cache_get_value_name_int(0, "tutorial", PlayerInfo[playerid][pTutorial]);
     cache_get_value_name_int(0, "admin", PlayerInfo[playerid][pAdmin]);
+    cache_get_value_name_int(0, "banned", PlayerInfo[playerid][pBanned]);
+    cache_get_value_name(0, "ban_reason", PlayerInfo[playerid][pBanReason], 128);
+    cache_get_value_name_int(0, "jail_time", PlayerInfo[playerid][pJailTime]);
+    cache_get_value_name_int(0, "muted", PlayerInfo[playerid][pMuted]);
+    cache_get_value_name(0, "last_ip", PlayerInfo[playerid][pLastIP], 16);
+    if(PlayerInfo[playerid][pBanned])
+    {
+		new banmsg[192];
+		if (PlayerInfo[playerid][pBanReason][0])
+		{
+    		format(banmsg, sizeof(banmsg),"You are banned from this server. Reason: %s",
+        	PlayerInfo[playerid][pBanReason]);
+		}
+		else
+		{
+    		format(banmsg, sizeof(banmsg),"You are banned from this server. Reason: No reason given");
+		}
+		SendClientMessage(playerid, COLOR_LIGHTRED, banmsg);
+		return Kick(playerid);
+    }
     cache_get_value_name_int(0, "vip", PlayerInfo[playerid][pPlayerVip]);
     cache_get_value_name_int(0, "level", PlayerInfo[playerid][pLevel]);
     cache_get_value_name_int(0, "playing_hours", PlayerInfo[playerid][pPlayingHours]);
@@ -187,6 +207,7 @@ stock ER_SaveCharacter(playerid)
     for(new js = 1; js < MAX_EXPRESS_JOB_TYPES; js++) mysql_format(MainPipeline, q, sizeof(q), "%s,`jobskill_%d`=%d", q, js, PlayerInfo[playerid][pJobSkill][js]);
     for(new j; j < MAX_JOBS_PER_PLAYER; j++) mysql_format(MainPipeline, q, sizeof(q), "%s,`job%d`=%d", q, j, PlayerInfo[playerid][pPlayerJob][j]);
     for(new w; w < MAX_WEAPON_SLOTS; w++) mysql_format(MainPipeline, q, sizeof(q), "%s,`weapon%d`=%d", q, w, PlayerInfo[playerid][pPlayerWeapons][w]);
+    mysql_format(MainPipeline, q, sizeof(q), "%s,`banned`=%d,`ban_reason`='%e',`jail_time`=%d,`muted`=%d,`last_ip`='%e'", q, PlayerInfo[playerid][pBanned], PlayerInfo[playerid][pBanReason], PlayerInfo[playerid][pJailTime], PlayerInfo[playerid][pMuted], PlayerInfo[playerid][pLastIP]);
     mysql_format(MainPipeline, q, sizeof(q), "%s WHERE `id`=%d", q, PlayerInfo[playerid][pID]);
 
     if(GetPVarInt(playerid, "SyncSaveOnExit"))
